@@ -13641,6 +13641,10 @@ a.scroll-top.show {
 
 /* split text */
 
+.single-split-text {
+  padding-bottom: 20px;
+}
+
 .single-split-text .title {
   font-size: 1.125rem;
   line-height: 1.2;
